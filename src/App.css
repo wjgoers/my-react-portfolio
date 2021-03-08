@@ -1,1 +1,36 @@
+body {
+  background-image: url('https://wallpapercave.com/wp/rsLw4Zt.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
 
+.container{
+  margin-bottom: 10%;
+}
+
+.copy, h5 {
+  color: grey;
+}
+
+.footer {
+ position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ background-color: black;
+ color: white;
+ text-align: center;
+ height: 7.5%;
+ padding-top: 1%;
+}
+
+
+.info  {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a{
+  color: white;
+}
